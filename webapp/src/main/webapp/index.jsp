@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>RACHIT</h1>
-    <p>Please fill in this form to create Rachit as a successful DevOps Engineer.</p>
+    <p>RACHIT is going to become a successful DevOps Engineer and make a name of himself.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
